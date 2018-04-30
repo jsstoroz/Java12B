@@ -1,0 +1,14 @@
+<s>::=<dp> <vp>
+<dp>::=<np>|<det> <np>
+<vp>::= <vi>|<adv><vp>|<vt><dp>
+<vi>::= sleeps|snores|swims|s
+<adv>::= quickly|carefully|surely
+<vt>::= likes|plays|finds|loves|eats
+<det>::=a|an|the
+<np>::=<adj><np>|<n>
+<n>::= hamburger|girl|boy|mom|song
+<adj>::= pretty|ugly|purple|small
+
+
+
+
